@@ -1,3 +1,2 @@
-github.com/codyoss/modtest3 v0.3.0/go.mod h1:QHYcqJCmVX8FyeM6FNRj3V3VpsT0kzGLu1826kx2BTs=
-github.com/codyoss/modtest3/cat v0.1.0 h1:kCHFGRMUMc7RTsPla9OIOx2H5lBAJkFjKNY5lb0Ww40=
-github.com/codyoss/modtest3/cat v0.1.0/go.mod h1:p/pyx5PaAmJiLT1AlImnHSba+FkABYEE31UwXevxSsk=
+github.com/codyoss/modtest3/cat v0.2.0 h1:MtT5iOLf+DraHvX9+Cvajozx8KrClLk2iyZw9sXJsQg=
+github.com/codyoss/modtest3/cat v0.2.0/go.mod h1:dIqrhtEIKYMcOZDRPtRqKJn9eHz2IjPDT6dkmCW9Na8=
